@@ -1,0 +1,290 @@
+[
+    {
+        "_id": "5f0b5d7b9f1f3b0017f3f3b1",
+        "question": "What is the capital of France?",
+        "answers": [
+            {
+                "answer": "Paris",
+                "isCorrect": true
+            },
+            {
+                "answer": "London",
+                "isCorrect": false
+            },
+            {
+                "answer": "Berlin",
+                "isCorrect": false
+            },
+            {
+                "answer": "Madrid",
+                "isCorrect": false
+            }
+        ]
+    },  
+    {
+        "_id": "5f0b5d7b9f1f3b0017f3f3b2",
+        "question": "What is the capital of Germany?",
+        "answers": [
+            {
+                "answer": "Paris",
+                "isCorrect": false
+            },
+            {
+                "answer": "London",
+                "isCorrect": false
+            },
+            {
+                "answer": "Berlin",
+                "isCorrect": true
+            },
+            {
+                "answer": "Madrid",
+                "isCorrect": false
+            }
+        ]
+
+    },
+    {
+        "_id": "5f0b5d7b9f1f3b0017f3f3b3",
+        "question": "What is the capital of Spain?",
+        "answers": [
+            {
+                "answer": "Paris",
+                "isCorrect": false
+            },
+            {
+                "answer": "London",
+                "isCorrect": false
+            },
+            {
+                "answer": "Berlin",
+                "isCorrect": false
+            },
+            {
+                "answer": "Madrid",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "_id": "5f0b5d7b9f1f3b0017f3f3b4",
+        "question": "What is the capital of England?",
+        "answers": [
+            {
+                "answer": "Paris",
+                "isCorrect": false
+            },
+            {
+                "answer": "London",
+                "isCorrect": true
+            },
+            {
+                "answer": "Berlin",
+                "isCorrect": false
+            },
+            {
+                "answer": "Madrid",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "_id": "5f0b5d7b9f1f3b0017f3f3b5",
+        "question": "What is the capital of Italy?",
+        "answers": [
+            {
+                "answer": "Paris",
+                "isCorrect": false
+            },
+            {
+                "answer": "London",
+                "isCorrect": false
+            },
+            {
+                "answer": "Berlin",
+                "isCorrect": false
+            },
+            {
+                "answer": "Rome",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "_id": "5f0b5d7b9f1f3b0017f3f3b6",
+        "question": "What is the capital of Portugal?",
+        "answers": [
+            {
+                "answer": "Paris",
+                "isCorrect": false
+            },
+            {
+                "answer": "London",
+                "isCorrect": false
+            },
+            {
+                "answer": "Berlin",
+                "isCorrect": false
+            },
+            {
+                "answer": "Lisbon",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "_id": "5f0b5d7b9f1f3b0017f3f3b7",
+        "question": "What is the capital of Belgium?",
+        "answers": [
+            {
+                "answer": "Paris",
+                "isCorrect": false
+            },
+            {
+                "answer": "London",
+                "isCorrect": false
+            },
+            {
+                "answer": "Brussels",
+                "isCorrect": true
+            },
+            {
+                "answer": "Madrid",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "_id": "5f0b5d7b9f1f3b0017f3f3b8",
+        "question": "What is the capital of The Netherlands?",
+        "answers": [
+            {
+                "answer": "Paris",
+                "isCorrect": false
+            },
+            {
+                "answer": "London",
+                "isCorrect": false
+            },
+            {
+                "answer": "Berlin",
+                "isCorrect": false
+            },
+            {
+                "answer": "Amsterdam",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "_id": "5f0b5d7b9f1f3b0017f3f3b9",
+        "question": "What is the capital of Switzerland?",
+        "answers": [
+            {
+                "answer": "Paris",
+                "isCorrect": false
+            },
+            {
+                "answer": "London",
+                "isCorrect": false
+            },
+            {
+                "answer": "Bern",
+                "isCorrect": true
+            },
+            {
+                "answer": "Madrid",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "_id": "5f0b5d7b9f1f3b0017f3f3ba",
+        "question": "What is the capital of Sweden?",
+        "answers": [
+            {
+                "answer": "Paris",
+                "isCorrect": false
+            },
+            {
+                "answer": "London",
+                "isCorrect": false
+            },
+            {
+                "answer": "Berlin",
+                "isCorrect": false
+            },
+            {
+                "answer": "Stockholm",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "_id": "5f0b5d7b9f1f3b0017f3f3bb",
+        "question": "What is the capital of Norway?",
+        "answers": [
+            {
+                "answer": "Paris",
+                "isCorrect": false
+            },
+            {
+                "answer": "London",
+                "isCorrect": false
+            },
+            {
+                "answer": "Berlin",
+                "isCorrect": false
+            },
+            {
+                "answer": "Oslo",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "_id": "5f0b5d7b9f1f3b0017f3f3bc",
+        "question": "What is the capital of Denmark?",
+        "answers": [
+            {
+                "answer": "Paris",
+                "isCorrect": false
+            },
+            {
+                "answer": "London",
+                "isCorrect": false
+            },
+            {
+                "answer": "Berlin",
+                "isCorrect": false
+            },
+            {
+                "answer": "Copenhagen",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "_id": "5f0b5d7b9f1f3b0017f3f3bd",
+        "question": "What is the capital of Finland?",
+        "answers": [
+            {
+                "answer": "Paris",
+                "isCorrect": false
+            },
+            {
+                "answer": "London",
+                "isCorrect": false
+            },
+            {
+                "answer": "Berlin",
+                "isCorrect": false
+            },
+            {
+                "answer": "Helsinki",
+                "isCorrect": true
+            }
+        ]
+    }
+]
+            
